@@ -1,0 +1,14 @@
+160		!Length	(L)
+7		!Local dimension (D)
+1.0		!Interaction strength (U)
+-1.78958129352		!Chemical potential (MU)
+0.05		!Phase kick (phi)
+0.05		!Time step
+2000		!Number of steps
+20		!Number of steps between measures of observables
+1.0e-4		!Truncated weight
+0		!sweeps with single-site optimization plus White correction
+3		!sweeps with double-site optimization
+10		!sweeps with single-site optimization
+1		!minimum value of the link dimension
+100		!maximum value of the link dimension
